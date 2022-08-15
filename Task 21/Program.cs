@@ -5,8 +5,6 @@
 
 double Distance( int xc1, int yc1, int zc1, int xc2, int yc2, int zc2)
 {
-    // double dist = Math.Sqrt((xc2 - xc1)*(xc2 - xc1)+(yc1 - yc2)*(yc1 - yc2));
-    // return dist;
     return Math.Sqrt((xc2 - xc1)*(xc2 - xc1)+(yc2 - yc1)*(yc2 - yc1)+(zc2 - zc1)*(zc2 - zc1));
 }
 Console.Write("Введите первое значение x : ");
