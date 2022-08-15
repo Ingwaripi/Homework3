@@ -1,0 +1,15 @@
+C:\VSCode\HomeWorkC#3\Task 21\bin\Debug\net6.0\Task 21.exe
+C:\VSCode\HomeWorkC#3\Task 21\bin\Debug\net6.0\Task 21.deps.json
+C:\VSCode\HomeWorkC#3\Task 21\bin\Debug\net6.0\Task 21.runtimeconfig.json
+C:\VSCode\HomeWorkC#3\Task 21\bin\Debug\net6.0\Task 21.dll
+C:\VSCode\HomeWorkC#3\Task 21\bin\Debug\net6.0\Task 21.pdb
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.csproj.AssemblyReference.cache
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.AssemblyInfoInputs.cache
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.AssemblyInfo.cs
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.csproj.CoreCompileInputs.cache
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.dll
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\refint\Task 21.dll
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.pdb
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\Task 21.genruntimeconfig.cache
+C:\VSCode\HomeWorkC#3\Task 21\obj\Debug\net6.0\ref\Task 21.dll

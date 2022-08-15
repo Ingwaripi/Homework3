@@ -1,0 +1,15 @@
+C:\VSCode\HomeWorkC#3\Task23\bin\Debug\net6.0\Task23.exe
+C:\VSCode\HomeWorkC#3\Task23\bin\Debug\net6.0\Task23.deps.json
+C:\VSCode\HomeWorkC#3\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+C:\VSCode\HomeWorkC#3\Task23\bin\Debug\net6.0\Task23.dll
+C:\VSCode\HomeWorkC#3\Task23\bin\Debug\net6.0\Task23.pdb
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.dll
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\refint\Task23.dll
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.pdb
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+C:\VSCode\HomeWorkC#3\Task23\obj\Debug\net6.0\ref\Task23.dll
